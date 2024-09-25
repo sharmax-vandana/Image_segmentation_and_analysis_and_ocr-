@@ -77,7 +77,6 @@ tzdata==2024.1
 urllib3==2.2.3
 verovio==4.3.1
 watchdog==4.0.2
-opencv-python
 libgl1-mesa-glx
 libglib2.0-0
 libsm6
