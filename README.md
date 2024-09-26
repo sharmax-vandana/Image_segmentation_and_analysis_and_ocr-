@@ -32,15 +32,15 @@ python -m streamlit run app.py
 ```
 ## Sample Outputs
 
-### Homepage
+###                                                                                                         <U>Homepage</U>
 !["UI"](./Screenshots/1.png)
 
 
 
-### Non-Text-Imgae
+###                                                                                                         <U>Non-Text-Imgae</U>
 !["Non-Text-Imgae"](./Screenshots/2.png)
 
 
 
-### Text-Image
+###                                                                                                         <U> Text-Image</U>
 !["Text-Image"](./Screenshots/3.png)
