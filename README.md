@@ -30,9 +30,17 @@ pip install -r requirements.txt
 ```
 python -m streamlit run app.py
 ```
+## Sample Outputs
 
+### Homepage
 !["UI"](./Screenshots/1.png)
 
+
+
+### Non-Text-Imgae
 !["Non-Text-Imgae"](./Screenshots/2.png)
 
+
+
+### Text-Image
 !["Text-Image"](./Screenshots/3.png)
