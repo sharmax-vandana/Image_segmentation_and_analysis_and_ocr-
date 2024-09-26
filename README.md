@@ -25,3 +25,5 @@ python -m streamlit run app.py
 ```
 
 ![UI](./Screenshots/1.png)
+![Non-Text-Imgae](./Screenshots/2.png)
+![Text-Image](./Screenshots/3.png)
