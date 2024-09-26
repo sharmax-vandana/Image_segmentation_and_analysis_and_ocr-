@@ -1,7 +1,7 @@
 # Image_segmentation_and_analysis_and_ocr-
 
 
-### 1. Upgrade Pip
+#### 1. Upgrade Pip
 ```
 pip install --upgrade pip
 ```
@@ -11,7 +11,7 @@ pip install --upgrade pip
 python -m venv myenv
 ```
 
-### 3. Activate your environment
+#### 3. Activate your environment
 Windows
 ```
 myenv\Scripts\activate
@@ -31,6 +31,8 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-![UI](./Screenshots/1.png)
-![Non-Text-Imgae](./Screenshots/2.png)
-![Text-Image](./Screenshots/3.png)
+!["UI"](./Screenshots/1.png)
+
+!["Non-Text-Imgae"](./Screenshots/2.png)
+
+!["Text-Image"](./Screenshots/3.png)
